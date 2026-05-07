@@ -35,8 +35,9 @@ streamlit run app.py
 
 
 ## 📸 Preview
-<img width="1900" height="888" alt="1 tamarin gen" src="https://github.com/user-attachments/assets/2de854c5-9465-4300-a137-e7bbd335336c" />
-<img width="1796" height="851" alt="tamarin rules" src="https://github.com/user-attachments/assets/ef5ff511-0b6b-4f18-9246-84debcb7e555" />
+
+<img width="1910" height="1365" alt="screencapture-localhost-8501-2026-05-07-16_20_08" src="https://github.com/user-attachments/assets/7bc4ce86-2ab5-4a44-a408-7387f1993d18" />
+
 
 
 
